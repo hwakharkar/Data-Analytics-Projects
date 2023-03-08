@@ -5,4 +5,9 @@ Hi, I'm Harshal! I have business development background and hold a Bachelor of E
 
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics topics.
 
+## Table of Contents
+..* About
+..* Portfolio Projects
+
+
 ## [Project 1: Adventure Works Cycles Case Study with the help of Power BI](https://github.com/hwakharkar/hw_portfolio/blob/main/Adventure%20Works%20Case%20study.pbix)
