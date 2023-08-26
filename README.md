@@ -1,4 +1,4 @@
-# Harshal Wakharkar - Data Analysis Portfolio
+# Harshal Wakharkar - Data Analytics Portfolio
 
 ## About
 Hi, I'm Harshal! I have business development background and hold a Bachelor of Engineering (B.E.) in Mechanincal Engineering from Nagpur University, India. I am a certified data analyst and done 6 months Data Analytics Internship in AI Variant, a Bengaluru based organisation. In that internship, I did some of the pathbreaking projects for them, which helped the organisation to take business decisions. 
