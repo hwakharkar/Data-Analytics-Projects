@@ -12,6 +12,6 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Portfolio Projects
 
 ## [Project 1: Adventure Works Cycles Case Study with the help of Power BI](https://github.com/hwakharkar/hw_portfolio/blob/main/Adventure%20Works%20Case%20study.pbix)
-Project Overview:
+
 The Adventure Works Bicycle Project is a Power BI-based data visualization project that aims to provide valuable insights into the sales and performance of Adventure Works' bicycle products. Adventure Works is a fictitious bicycle manufacturer and retailer, and this project uses their sales data to demonstrate the capabilities of Power BI for data analysis and visualization.
 
