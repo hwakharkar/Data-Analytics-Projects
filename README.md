@@ -12,3 +12,10 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Portfolio Projects
 
 ## [Project 1: Adventure Works Cycles Case Study with the help of Power BI](https://github.com/hwakharkar/hw_portfolio/blob/main/Adventure%20Works%20Case%20study.pbix)
+
+### Sales Dashboard
+![Sales Dashboard](https://github.com/hwakharkar/hw/blob/main/Sales%20BI%20DB.png)
+
+### Product Dashboard
+![Product Dashboard](https://github.com/hwakharkar/hw/blob/main/Product%20BI%20DB.png)
+
